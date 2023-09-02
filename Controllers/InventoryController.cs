@@ -30,7 +30,16 @@ namespace ADOCOREWEBAPP.Controllers
 
 		public IActionResult Details(int id)
 		{
-			return View(inventoryInterface.GetInventory(id));
+			if(id== 0)
+			{
+				return NotFound("no id found");
+			}
+            else
+            {
+                
+            var inventory = inventoryInterface.GetInventory(id);
+			return View(inventory);
+            }
 		}
 	}
 }
