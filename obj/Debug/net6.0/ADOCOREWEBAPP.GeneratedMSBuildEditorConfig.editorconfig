@@ -32,8 +32,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XFJlbW92ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Shared/Error.cshtml]

@@ -33,7 +33,27 @@ namespace ADOCOREWEBAPP.DAO
 
 		public void EditInventory(int id, Inventory inventory)
 		{
-			throw new NotImplementedException();
+			string connectionString = Configuration["connectionStrings:DefaultConnection"];
+			SqlConnection connection = new SqlConnection(connectionString);
+
+			string query = "select * from Inventory where Id = @Id";
+			SqlDataAdapter dataAdapter = new SqlDataAdapter(query, connection);
+			dataAdapter.SelectCommand.Parameters.AddWithValue("@Id", id);
+
+			SqlCommandBuilder commandBuilder = new SqlCommandBuilder(dataAdapter);
+
+			DataTable dataTable = new DataTable();
+			dataAdapter.Fill(dataTable);
+
+			if (dataTable.Rows.Count == 1)
+			{
+				DataRow dataRow = dataTable.Rows[0];
+				dataRow[1] = inventory.Name;
+				dataRow[2] = inventory.Price;
+				dataRow[3] = inventory.Quantity;
+
+				dataAdapter.Update(dataTable);
+			}
 		}
 
 		public IEnumerable<Inventory> GetInventories()
@@ -88,7 +108,25 @@ namespace ADOCOREWEBAPP.DAO
 
 		public void RemoveInventory(int id, Inventory inventory)
 		{
-			throw new NotImplementedException();
+			string connectionString = Configuration["connectionStrings:DefaultConnection"];
+			SqlConnection connection = new SqlConnection(connectionString);
+
+			string query = "select * from Inventory where Id = @Id";
+			SqlDataAdapter dataAdapter = new SqlDataAdapter(query, connection);
+			dataAdapter.SelectCommand.Parameters.AddWithValue("@Id", id);
+
+			SqlCommandBuilder commandBuilder = new SqlCommandBuilder(dataAdapter);
+
+			DataTable dataTable = new DataTable();
+			dataAdapter.Fill(dataTable);
+
+			if (dataTable.Rows.Count == 1)
+			{
+				DataRow dataRow = dataTable.Rows[0];
+				dataRow.Delete();
+
+				dataAdapter.Update(dataTable);
+			}
 		}
 	}
 }
