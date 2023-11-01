@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GIAN CHAND MEHTA\\3D Objects\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj": {}
+    "C:\\Users\\GIAN CHAND MEHTA\\Documents\\3D_OBJECTS\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GIAN CHAND MEHTA\\3D Objects\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj": {
+    "C:\\Users\\GIAN CHAND MEHTA\\Documents\\3D_OBJECTS\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GIAN CHAND MEHTA\\3D Objects\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj",
+        "projectUniqueName": "C:\\Users\\GIAN CHAND MEHTA\\Documents\\3D_OBJECTS\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj",
         "projectName": "ADOCOREWEBAPP",
-        "projectPath": "C:\\Users\\GIAN CHAND MEHTA\\3D Objects\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj",
+        "projectPath": "C:\\Users\\GIAN CHAND MEHTA\\Documents\\3D_OBJECTS\\ADOCOREWEBAPP\\ADOCOREWEBAPP.csproj",
         "packagesPath": "C:\\Users\\GIAN CHAND MEHTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GIAN CHAND MEHTA\\3D Objects\\ADOCOREWEBAPP\\obj\\",
+        "outputPath": "C:\\Users\\GIAN CHAND MEHTA\\Documents\\3D_OBJECTS\\ADOCOREWEBAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GIAN CHAND MEHTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

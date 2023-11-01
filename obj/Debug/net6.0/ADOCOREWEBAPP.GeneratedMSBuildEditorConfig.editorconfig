@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ADOCOREWEBAPP
 build_property.RootNamespace = ADOCOREWEBAPP
-build_property.ProjectDir = C:\Users\GIAN CHAND MEHTA\3D Objects\ADOCOREWEBAPP\
+build_property.ProjectDir = C:\Users\GIAN CHAND MEHTA\Documents\3D_OBJECTS\ADOCOREWEBAPP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\GIAN CHAND MEHTA\3D Objects\ADOCOREWEBAPP
+build_property.MSBuildProjectDirectory = C:\Users\GIAN CHAND MEHTA\Documents\3D_OBJECTS\ADOCOREWEBAPP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Home/Index.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Home/Privacy.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Create.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Inventory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Details.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Inventory/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Edit.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Inventory/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Index.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Inventory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Inventory/Remove.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Inventory/Remove.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XFJlbW92ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Shared/Error.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/_ViewImports.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/_ViewStart.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/GIAN CHAND MEHTA/3D Objects/ADOCOREWEBAPP/Views/Shared/_Layout.cshtml]
+[C:/Users/GIAN CHAND MEHTA/Documents/3D_OBJECTS/ADOCOREWEBAPP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f2jjbh6qf4
